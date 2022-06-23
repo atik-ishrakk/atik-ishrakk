@@ -1,0 +1,7 @@
+- 👋 Hi, I’m MD.Atik Ishrak Sujon
+- I am from Bangladesh.
+- Currently srudying for BSc in Computer Science and Engeneering at "AIUB" University 
+- 👀 I’m interested in c++, Java
+- 🌱 I’m currently learning JAVA.
+- 💞️ I’m looking to collaborate on JAVA
+- 📫 My Facebook: https://www.facebook.com/atik.ishrakk/
